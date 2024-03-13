@@ -1,4 +1,4 @@
-# WeblogicBatchMemShellKit
+![weblogic-batch-memshell-kit](https://socialify.git.ci/W01fh4cker/weblogic-batch-memshell-kit/image?description=1&font=Bitter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs2.loli.net%2F2022%2F06%2F25%2FgUAh2V5CiD96y8G.jpg&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 # 一、安装启动
 
 `JDK8`、`node18.0.0`、`vue5.0.8`
