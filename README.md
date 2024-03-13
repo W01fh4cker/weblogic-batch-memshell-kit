@@ -7,6 +7,7 @@
 git clone https://github.com/W01fh4cker/weblogic-batch-memshell-kit.git
 cd weblogic-batch-memshell-kit
 npm install
+npm run electron:serve
 ```
 
 `idea`打开`java-backend`，同步完依赖：
